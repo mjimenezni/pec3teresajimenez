@@ -4,6 +4,7 @@
  */
 @import "tailwindcss/base";
 @import "tailwindcss/components";
+@import "tailwindcss/utilities";
 
 /**
  * Import variables
@@ -29,7 +30,7 @@
 
 @import "layouts/home";
 
-@import "tailwindcss/utilities";
+
 
 /**
  * Do NOT include anything else in this file!
